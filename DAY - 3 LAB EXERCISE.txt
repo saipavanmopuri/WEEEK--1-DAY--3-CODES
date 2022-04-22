@@ -1,0 +1,175 @@
+<html>
+    <head>
+        
+            
+    </head>
+    <body>
+        <h1 style="text-align:center;">WELCOME TO GREAT LEARNING</h1>
+        <center>
+          <form action="action_page.php">
+            <div class="container">
+              
+              <p>Please fill in this form to create an account.</p>
+              <hr>
+          
+              <label for="email"><b>Email</b></label>
+              <input type="text" placeholder="Enter Email" name="email" id="email" required>
+          
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+          
+              <label for="psw-repeat"><b>Repeat Password</b></label>
+              <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+              <hr>
+          
+              <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+              <BUTTON>SIGN IN</BUTTON>
+            </div>
+          
+            <div class="container signin">
+              
+            </div>
+          </form>
+          <img src="https://tse2.mm.bing.net/th?id=OIP.Jim1HlaBdIT5yzzC52NZCwHaHa&pid=Api&P=0&w=157&h=157" />
+        </center>
+        <h2 style="text-align:center;">
+        <a href="https://www.mygreatlearning.com/"target="_blank".><button>KNOW MORE ABOUT GREAT LEARNING</button> </a></h2>
+        <h4 style="text-align:center;">COURSES OFFERED BY GREAT LEARNING</h4>
+            <center>
+            JAVA<br />
+            <img src="https://tse4.mm.bing.net/th?id=OIP.Tzs3s3tVrtDBHGTMkVzwtwHaHa&pid=Api&P=0&w=167&h=167"/>
+            </center>
+            
+            <center>
+                DATABASE<br />
+                <img src="https://tse3.mm.bing.net/th?id=OIP.6JTAP3M7Vb_hLpGc7KZEUQHaHa&pid=Api&P=0&w=170&h=170"/>
+            </center>
+            <center>
+                ANGULAR<br />
+                <img src="https://tse3.mm.bing.net/th?id=OIP.YOV-Ou6W7SSMzvTz2MRFWwHaCA&pid=Api&P=0&w=526&h=142"/>
+            </center>
+            <style scr="file:///C:/Users/AMREEN/OneDrive/Desktop/wipro/day2/lab%20exercise.html"/>
+    
+        </body>
+        <html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<style>
+  .p{
+    width:70%;
+    height:70%;
+  }
+</style>
+    
+      
+  </head>
+  <body>
+    
+    <div id="carouselExampleCaptions" class="carousel slide" data-mdb-ride="carousel">
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-mdb-target="#carouselExampleCaptions"
+          data-mdb-slide-to="0"
+          class="active"
+          aria-current="true"
+          aria-label="Slide 1"
+        ></button>
+        <button
+          type="button"
+          data-mdb-target="#carouselExampleCaptions"
+          data-mdb-slide-to="1"
+          aria-label="Slide 2"
+        ></button>
+        <button
+          type="button"
+          data-mdb-target="#carouselExampleCaptions"
+          data-mdb-slide-to="2"
+          aria-label="Slide 3"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="p">
+        <div class="carousel-item active">
+
+          <img src="https://manshasoftware.com/wp-content/uploads/2020/04/Java_Platform-1024x683.jpg" class="d-block w-100" alt="Wild Landscape"/>
+          
+        </div>
+        <div class="carousel-item">
+          <img src="https://tse4.mm.bing.net/th?id=OIP.tWKFRELLuNGLg5j-mdJ-NQHaDy&pid=Api&P=0&w=343&h=175" class="d-block w-100" alt="Camera"/>
+          
+        </div>
+        <div class="carousel-item">
+          
+          
+        </div>
+      </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleCaptions" data-mdb-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleCaptions" data-mdb-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="https://www.mygreatlearning.com/academy"target="_blank">Home</a></li>
+          <li><button><a href="file:///C:/Users/AMREEN/OneDrive/Desktop/wipro/day3/profile%20page.html"target="_blank">Profile</a></button></li>
+          <li><a href="https://kandi.openweaver.com/jupyter%20notebook/UpwardTrajectory/olympus-great-learning-mentor"target=_blank>Mentor</a></li>
+          <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/google-search-campaign"target="_blank">search</a></li>
+        </ul>
+      </div>
+    </nav>
+    <center><h1>COURSES</h1></center>
+        <align-left><img src="https://tse4.mm.bing.net/th?id=OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg&pid=Api&P=0&w=103&h=175"/></center>
+        <align-left><a href="file:///C:/Users/AMREEN/OneDrive/Desktop/wipro/day3/profile%20page.html"target="_blank"/><button>Register</button></align-left>
+        <align-left><h4>JAVA</h4><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming"target="_blank"/><button>know more</button></center>
+        <center><img src="https://tse1.mm.bing.net/th?id=OIP.cTC6Agjda0K_rrmw0Oy2HgHaHa&pid=Api&P=0&w=178&h=178"/></center>
+        <align-left><a href="file:///C:/Users/AMREEN/OneDrive/Desktop/wipro/day3/profile%20page.html"target="_blank"/><button>Register</button></align-left>
+        <center><h4>DATABASE</h4><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-systems-dbms"target="_blank" /><button>know more</button></center>
+        <align-right><img src="https://tse4.mm.bing.net/th?id=OIP.U8DWIGYNzKQrzk18AB5D7QHaD3&pid=Api&P=0&w=292&h=152"/></allign-right>
+          <align-left><a href="file:///C:/Users/AMREEN/OneDrive/Desktop/wipro/day3/profile%20page.html"target="_blank"/><button>Register</button></align-left>
+          
+          <align-right><h5>ANGULAR</h5><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners"target="_blank" /><button>know more</button></align-right>
+   
+
+    
+  </body>
+</html>
+<forms class="p" >
+            <center>
+            <label>
+                <br />
+                <br />
+                <center><h1>PROFILE</h1></center>
+            <center><label>NAME:<input type="text"/></label></center>
+            <br />
+            <center><label>EMAIL ID:<input type="email"/></label></center>
+            <br />
+            <center><label>PASSWORD:<input type="password"/></label></center>
+            <br />
+            <center><a href="https://www.mygreatlearning.com/"target="_blank"/a><button>Know more</button></center>
+            <br />
+            <center><button><a href="Register</button></center>
+            </label>
+            </forms>
+        </center>
+
+        </forms>
+
+        </div>
+    </body>
+</html>
